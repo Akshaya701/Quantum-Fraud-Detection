@@ -1,0 +1,4 @@
+Feature Map,Accuracy,Balanced Accuracy,Precision,Recall,F1 Score,ROC-AUC,Specificity
+Z Feature Map,0.7,0.7,0.75,0.6,0.6667,0.74,0.8
+ZZ Feature Map,0.75,0.75,0.8571,0.6,0.7059,0.84,0.9
+Pauli Feature Map,0.7,0.7,0.75,0.6,0.6667,0.7,0.8

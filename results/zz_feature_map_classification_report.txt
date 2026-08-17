@@ -1,0 +1,10 @@
+Feature Map: ZZ Feature Map
+
+              precision    recall  f1-score   support
+
+  Legitimate       0.69      0.90      0.78        10
+       Fraud       0.86      0.60      0.71        10
+
+    accuracy                           0.75        20
+   macro avg       0.77      0.75      0.74        20
+weighted avg       0.77      0.75      0.74        20

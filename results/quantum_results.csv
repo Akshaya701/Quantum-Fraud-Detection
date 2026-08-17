@@ -1,0 +1,2 @@
+model,samples_per_class,total_samples,training_samples,testing_samples,accuracy,precision,recall,f1_score,roc_auc,training_time_sec,prediction_time_sec,total_time_sec
+Quantum QSVC,50,100,80,20,0.8,0.875,0.7,0.7777777777777778,0.88,11.657881899969652,5.5714820000575855,61.71069890004583

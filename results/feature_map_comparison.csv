@@ -1,0 +1,4 @@
+Feature Map,Samples/Class,Total Samples,Accuracy,Balanced Accuracy,Precision,Recall,F1 Score,ROC-AUC,Specificity,True Negatives,False Positives,False Negatives,True Positives,Training Time (s),Prediction Time (s)
+Z Feature Map,50,100,0.7,0.7,0.75,0.6,0.6666666666666666,0.7400000000000001,0.8,8,2,4,6,6.424405200057663,3.036812699981965
+ZZ Feature Map,50,100,0.75,0.75,0.8571428571428571,0.6,0.7058823529411765,0.84,0.9,9,1,4,6,10.474813999957405,4.891019399976358
+Pauli Feature Map,50,100,0.7,0.7,0.75,0.6,0.6666666666666666,0.7,0.8,8,2,4,6,13.072841599932872,5.616516700014472
